@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CEDResources>
+	<DocCfs>
+		<View>
+			<WPlace flags="2" showc="3" minx="-1" miny="-1" maxx="-8" maxy="-30" t="0" b="848" l="0" r="925"/>
+			<Font hgt="-12" wid="0" esc="0" or="0" wgt="400" itl="0" und="0" so="0" cset="0" oupre="0" clpre="0" qual="0" paf="18" fnam="Times New Roman"/>
+			<Chan Chan="0" DMode="2" DDSize="-1" DWidth="1" DOffset="0" DError="1" DFlags="0" Vis="1" Ax="1" AxMin="-0.8581913257333561" AxMax="0.57663249183133636" AdcAxMin="-0.8581913257333561" AdcAxMax="0.57663249183133636" RateAxMin="0" RateAxMax="10" AxType="1" ChType="0" DefDMode="2" AxSmall="0"/>
+			<Chan Chan="1" DMode="11" DDSize="0" DWidth="1" DOffset="0" DError="1" DFlags="0" Vis="1" Ax="0" AxMin="0" AxMax="10" AdcAxMin="0" AdcAxMax="10" RateAxMin="0" RateAxMax="10" AxType="1" ChType="1" DefDMode="11"/>
+			<XInfo Left="-0.06665000319480896" Right="0.93376651330618188" CurFr="0" DCStart="XLow()" DCEnd="XHigh()" DCRatio="1000" XAxSmall="5" VCLabMode="1" HCLabMode="1" VCCount="1">
+				<VCur id="0" Pos="0" LabMode="1" LabPos="0.20000000000000001" Num="0" Chan="0" Mode="0" LabStr=""/>
+			</XInfo>
+			<ChOrder Chans="2">
+				<c id="0" Chan="0"/>
+				<c id="1" Chan="1"/>
+			</ChOrder>
+			<CursVals XZero="0" YZero="0" Mode="0" Chan="0"/>
+			<CursRegs XZero="0" YZero="0" Mode="0" Chan="0"/>
+			<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+		</View>
+		<ProcR Name="SetAverage" Type="0" Multi="0" TRatio="1" Frms="1">
+			<SetAverage Bins="600" Width="0.20000000000000001" CSCod="-50" CSMsk="1" CSStr="1" Offs="0" SOffs="0" Mean="1" XZero="0" Errs="0"/>
+			<m FSCod="-4" FSSta="1" FSStr="" ClBins="0" OptX="1" OptY="1" AutoPr="1"/>
+			<u id="0" FSCod="-4" FSSta="1" FSStr="" Last="126" Next="127" Step="1"/>
+			<DocCfs>
+				<View>
+					<WPlace flags="0" showc="1" minx="-1" miny="-1" maxx="-4" maxy="-30" t="0" b="433" l="918" r="1281"/>
+					<Font hgt="-12" wid="0" esc="0" or="0" wgt="400" itl="0" und="0" so="0" cset="0" oupre="0" clpre="0" qual="0" paf="18" fnam="Times New Roman"/>
+					<Chan Chan="0" DMode="2" DDSize="-1" DWidth="1" DOffset="0" DError="1" DFlags="0" Vis="1" Ax="1" AxMin="-0.001190185546875" AxMax="0.001495361328125" AdcAxMin="-0.001190185546875" AdcAxMax="0.001495361328125" RateAxMin="0" RateAxMax="10" AxType="1" ChType="0" DefDMode="2"/>
+					<XInfo Left="-0.06665000319480896" Right="0.13330000010319054" DCStart="XLow()" DCEnd="XHigh()" DCRatio="1000" XAxSmall="5" VCLabMode="3" HCLabMode="3" VCCount="1">
+						<VCur id="0" Pos="0" LabMode="3" LabPos="0.20000000000000001" Num="0" Chan="0" Mode="0" LabStr=""/>
+					</XInfo>
+					<ChOrder Chans="1">
+						<c id="0" Chan="0"/>
+					</ChOrder>
+					<CursVals XZero="0" YZero="0" Mode="0" Chan="0"/>
+					<CursRegs XZero="0" YZero="0" Mode="0" Chan="0"/>
+					<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+				</View>
+			</DocCfs>
+		</ProcR>
+		<ProcR Name="SetAverage" Type="0" Multi="0" TRatio="1" Frms="1">
+			<SetAverage Bins="600" Width="0.20000000000000001" CSCod="-50" CSMsk="1" CSStr="1" Offs="0" SOffs="0" Mean="1" XZero="0" Errs="0"/>
+			<m FSCod="-4" FSSta="3" FSStr="" ClBins="0" OptX="1" OptY="1" AutoPr="1"/>
+			<u id="0" FSCod="-4" FSSta="3" FSStr="" Last="126" Next="127" Step="1"/>
+			<DocCfs>
+				<View>
+					<WPlace flags="0" showc="1" minx="-1" miny="-1" maxx="-4" maxy="-30" t="436" b="829" l="875" r="1277"/>
+					<Font hgt="-12" wid="0" esc="0" or="0" wgt="400" itl="0" und="0" so="0" cset="0" oupre="0" clpre="0" qual="0" paf="18" fnam="Times New Roman"/>
+					<Chan Chan="0" DMode="2" DDSize="-1" DWidth="1" DOffset="0" DError="1" DFlags="0" Vis="1" Ax="1" AxMin="-2.9156570434570313" AxMax="2.8584365844726562" AdcAxMin="-2.9156570434570313" AdcAxMax="2.8584365844726562" RateAxMin="0" RateAxMax="10" AxType="1" ChType="0" DefDMode="2"/>
+					<XInfo Left="-0.06665000319480896" Right="0.13330000010319054" DCStart="XLow()" DCEnd="XHigh()" DCRatio="1000" XAxSmall="5" VCLabMode="3" HCLabMode="3" VCCount="1">
+						<VCur id="0" Pos="0" LabMode="3" LabPos="0.20000000000000001" Num="0" Chan="0" Mode="0" LabStr=""/>
+					</XInfo>
+					<ChOrder Chans="1">
+						<c id="0" Chan="0"/>
+					</ChOrder>
+					<CursVals XZero="0" YZero="0" Mode="0" Chan="0"/>
+					<CursRegs XZero="0" YZero="0" Mode="0" Chan="0"/>
+					<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+				</View>
+			</DocCfs>
+		</ProcR>
+	</DocCfs>
+	<Sample>
+		<!--Sampling configuration saved to C:\Users\JCR-LAB5\Documents\JCRLAB5 DATA\Isobel\ExternallyTriggeredSampling3.sgcx on 15 April 2015 15:28:54-->
+		<General SampType="1" NumPorts="1" MaxPort="128" ADCRange="5" States="1" VaryPoints="0" IdealRate="3000" ActualRate="3000.7501875468865" Points="3002" XZeroOffs="0" Burst="1" Write="1" Pause="0" Trigger="1" KeyMark="1" DigMark="0" InvTrig="0" XConvert="0" XCUnits="Pts" XCPerUnit="1">
+			<Ports>
+				<p id="0" n="0"/>
+			</Ports>
+		</General>
+		<Ports ArtMode="0" ArtStart="0" ArtEnd="0.10000000000000001" ArtLimit="100" ArtPercent="0"/>
+		<Peri PeriType="4" PeriPoints="200" PeriDigIn="8" PeriDigHi="0" PeriAnaHi="0" PeriAnaLo="0" PeriAnaHyst="0"/>
+		<Outputs OutType="1" SeqPeriod="1" AbsLev="0" AbsTime="1" MaxWave="0" SeqReset="1" SeqWaveRate="1000" SeqDACMask="0" SeqWave="2" SeqAreas="1" SeqJump="0">
+			<DACs Count="8" Mask="0">
+				<d id="0" Scale="0.000152587890625" Offset="0" Units="V"/>
+				<d id="1" Scale="0.000152587890625" Offset="0" Units="V"/>
+				<d id="2" Scale="0.000152587890625" Offset="0" Units="V"/>
+				<d id="3" Scale="0.000152587890625" Offset="0" Units="V"/>
+				<d id="4" Scale="0.00015258800704032183" Offset="0" Units="V"/>
+				<d id="5" Scale="0.00015258800704032183" Offset="0" Units="V"/>
+				<d id="6" Scale="0.00015258800704032183" Offset="0" Units="V"/>
+				<d id="7" Scale="0.00015258800704032183" Offset="0" Units="V"/>
+			</DACs>
+		</Outputs>
+		<States StaType="2" StaNum="1" DigIMask="255" DigOMask="1" StaRepeats="1" StaOrder="3" StaIdleEnd="250"/>
+		<Auto AutoName="TMS_%y%m%d_JF_000" AutoSave="1" AutoPath="C:\Users\JCR-LAB5\Documents\JCRLAB5 DATA\isobel" LimFrames="0" MaxFrames="60" LimSize="0" MaxSize="0" LimTime="0" MaxTime="0"/>
+		<Pulses IReps="1" WrOnCyc="0" CycAtSt="0" States="2">
+			<State id="0" Dig="0" Repeats="1" DAC0="0" DAC1="0" DAC2="0" DAC3="0" DAC4="0" DAC5="0" DAC6="0" DAC7="0" Sequence="" Label="">
+				<PulseList id="0">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="1.6660000085830688" Interval="4" IVary="15" Points="0"/>
+				</PulseList>
+				<PulseList id="1">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="2">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="3">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="4">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="5">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="6">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="7">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="8">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="9">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="0.20000000298023224" Interval="4" IVary="15" Points="0"/>
+				</PulseList>
+			</State>
+			<State id="1" Dig="0" Repeats="1" DAC0="0" DAC1="0" DAC2="0" DAC3="0" DAC4="0" DAC5="0" DAC6="0" DAC7="0" Sequence="" Label="">
+				<PulseList id="0">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="1.6662499904632568" Interval="4" IVary="15" Points="0"/>
+				</PulseList>
+				<PulseList id="1">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="2">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="3">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="4">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="5">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="6">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="7">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+				</PulseList>
+				<PulseList id="8">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="2" Interval="10" IVary="0" Points="0"/>
+					<Pulse id="1" Type="1" Name="" Before="0.30000001192092896" Length="0.10300000011920929" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="1" Dig="1"/>
+				</PulseList>
+				<PulseList id="9">
+					<Pulse id="0" Type="0" Name="" Before="0.20000000298023224" Length="0.10000000149011612" Repeats="1" Deltas="0" Flags="0" Delta="0" Amp="0" Dig="0" Trig="0" Frame="0.20000000298023224" Interval="4" IVary="15" Points="0"/>
+				</PulseList>
+			</State>
+		</Pulses>
+		<CondPorts Count="80">
+			<c id="0" Scale="0.000152587890625" Offset="0" Units="mV" Gain="1000" Offs="0" Mode="2" Source="1" LFilt="2000" HFilt="20" LFSet="0" HFSet="0"/>
+			<c id="1" Scale="1.5258789289873675e-006" Offset="0" Units="mV" Gain="100" Offs="0" Mode="2" Source="2" LFilt="25300" HFilt="0.05000000074505806" LFSet="0" HFSet="0"/>
+			<c id="2" Scale="1.5258789289873675e-006" Offset="0" Units="mV" Gain="100" Offs="0" Mode="0" Source="2" LFilt="25300" HFilt="0.05000000074505806" LFSet="0" HFSet="0"/>
+			<c id="3" Scale="1.5258789289873675e-006" Offset="0" Units="mV" Gain="100" Offs="0" Mode="0" Source="2" LFilt="25300" HFilt="0.05000000074505806" LFSet="0" HFSet="0"/>
+			<c id="4" Scale="1.5258789289873675e-006" Offset="0" Units="mV" Gain="100" Offs="0" Mode="0" Source="2" LFilt="25300" HFilt="0.05000000074505806" LFSet="0" HFSet="0"/>
+			<c id="5" Scale="1.5258789289873675e-006" Offset="0" Units="mV" Gain="100" Offs="0" Mode="0" Source="2" LFilt="25300" HFilt="0.05000000074505806" LFSet="0" HFSet="0"/>
+			<c id="6" Scale="1.5258789289873675e-006" Offset="0" Units="mV" Gain="100" Offs="0" Mode="0" Source="2" LFilt="25300" HFilt="0.05000000074505806" LFSet="0" HFSet="0"/>
+			<c id="7" Scale="1.5258789289873675e-006" Offset="0" Units="V" Gain="100" Offs="0" Mode="0" Source="2" LFilt="25300" HFilt="0.05000000074505806" LFSet="0" HFSet="0"/>
+			<c id="8" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="9" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="10" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="11" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="12" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="13" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="14" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="15" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="16" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="17" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="18" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="19" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="20" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="21" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="22" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="23" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="24" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="25" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="26" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="27" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="28" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="29" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="30" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="31" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="32" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="33" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="34" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="35" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="36" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="37" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="38" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="39" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="40" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="41" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="42" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="43" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="44" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="45" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="46" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="47" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="48" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="49" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="50" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="51" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="52" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="53" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="54" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="55" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="56" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="57" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="58" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="59" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="60" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="61" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="62" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="63" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="64" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="65" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="66" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="67" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="68" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="69" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="70" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="71" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="72" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="73" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="74" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="75" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="76" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="77" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="78" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+			<c id="79" Scale="0.000152587890625" Offset="0" Units="V" Gain="1" Offs="0" Mode="0" Source="2" LFilt="0" HFilt="0" LFSet="0" HFSet="0"/>
+		</CondPorts>
+		<ExtraPorts Count="7">
+			<p id="0" Name="FDI" Opts=""/>
+			<p id="1" Name="ADM" Opts=""/>
+			<p id="2" Name="APB" Opts=""/>
+			<p id="3" Name="APB&apos;" Opts=""/>
+			<p id="4" Name="FDI" Opts=""/>
+			<p id="5" Name="ADM" Opts=""/>
+			<p id="6" Name="fdi" Opts=""/>
+		</ExtraPorts>
+		<AuxTel/>
+		<AuxState>
+			<MagStim Version="1" Dev="-1" Port="1" Port2="2" Flags="0" Unlk="" Trig="-1" OverrideChecks="0" MaxSt="1">
+				<s id="0" PwrA="30" PwrB="30" Int="50" Freq="10" NPul="2" Flags="1"/>
+				<s id="1" PwrA="30" PwrB="30" Int="50" Freq="10" NPul="2" Flags="0"/>
+			</MagStim>
+		</AuxState>
+		<ForceOP SetDAC0="0" DAC0="0" SetDAC1="0" DAC1="0" SetDAC2="0" DAC2="0" SetDAC3="0" DAC3="0" SetDAC4="0" DAC4="0" SetDAC5="0" DAC5="0" SetDAC6="0" DAC6="0" SetDAC7="0" DAC7="0" DigOut="0" DigLow="0" RampT="0" OnLoad="0" OnStart="0" OnFinish="0"/>
+		<SampCtl t="71" b="0" l="2" r="2"/>
+		<PulseDlg t="196" b="522" l="472" r="1028"/>
+	</Sample>
+	<App>
+		<WPlace flags="2" showc="3" minx="-1" miny="-1" maxx="-1" maxy="-1" t="41" b="705" l="392" r="1121"/>
+	</App>
+</CEDResources>
